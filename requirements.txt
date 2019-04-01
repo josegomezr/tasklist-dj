@@ -1,0 +1,5 @@
+Django==2.2
+django-generic-json-views==0.8
+django-jwt-auth==0.0.2
+PyJWT==1.7.1
+pytz==2018.9
